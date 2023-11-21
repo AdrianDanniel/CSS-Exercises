@@ -1,0 +1,27 @@
+.boxA {
+    width: 200px;
+    height: 150px;
+    padding: 5px;
+    border: 2px solid black;
+    margin: 10px;
+    background-color: blanchedalmond;
+  }
+
+  .boxB {
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px;
+    background-color: blueviolet;
+  }
+  
+  .boxC {
+    width: 200px;
+    height: 150px;
+    padding: 15px;
+    border: 2px solid black;
+    margin: 10px;
+    background-color: brown;
+  }
+  
